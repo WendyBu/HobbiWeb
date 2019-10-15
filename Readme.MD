@@ -11,3 +11,5 @@ Nate Offutt - noffutt3@gatech.edu
 Chang Yong Pyo - seanpyo@gatech.edu
  
 Ji Xi - jxi7@gatech.edu
+
+*Adapted from bulma-landing-page-template
