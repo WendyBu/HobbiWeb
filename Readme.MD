@@ -1,10 +1,11 @@
 # Hobbi
-## By Team Matchmakers
+## By Matchmakers
 
 Web Page: https://wendybu.github.io/HobbiWeb/
 
 Video: https://www.youtube.com/watch?time_continue=17&v=0a_SLqDFXmM
 
+## Team Members:
 Yiwen Bu - ybu34@gatech.edu 
 
 Advait Gogate - advaitgogate@gatech.edu 
