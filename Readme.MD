@@ -1,7 +1,9 @@
 # Hobbi
 ## By Team Matchmakers
 
-https://wendybu.github.io/HobbiWeb/
+Web Page: https://wendybu.github.io/HobbiWeb/
+
+Video: https://www.youtube.com/watch?time_continue=17&v=0a_SLqDFXmM
 
 Yiwen Bu - ybu34@gatech.edu 
 
